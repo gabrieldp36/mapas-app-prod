@@ -11,5 +11,5 @@ npm install
 Y luego, para visualizar el sitio web o la app, ejecuten el siguiente comando:
 
 ```
-node app
+node app 
 ```
